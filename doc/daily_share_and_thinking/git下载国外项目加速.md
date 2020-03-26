@@ -7,8 +7,8 @@ git clone 国外一些项目时候有时候速度非常慢.有一些提速方法
 
 
 2.在有科学上网服务的条件下，可以给git设置代理:      
-```
-git config --global http.proxy 'socks5://127.0.0.1:1080'
+    
+git config --global http.proxy 'socks5://127.0.0.1:1080'  
 git config --global https.proxy 'socks5://127.0.0.1:1080'
-
-```
+    
+    
