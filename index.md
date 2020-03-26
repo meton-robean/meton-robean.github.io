@@ -3,7 +3,7 @@
 本人平时把github当作代码备份、项目协作、认识大佬、Bugs求助、转载优秀资源的地方. 长期使用github的issues和markdown来做博客日志、技术知识点备份. 这里是本人github的一个索引页面，欢迎访问感兴趣的内容. (很多地方都是刚决定开始搭建，需要时间慢慢积累，希望可以在记录中收获和提高)  
 **感兴趣方向**：ML系统、体系结构、程序分析、计算机视觉.
 
-### [个人简历](doc/个人简历.md)  [github主页](https://github.com/meton-robean)  [知乎主页]()
+### [个人简历](doc/个人简历.md)  [github主页](https://github.com/meton-robean) 
 
 ### 博客站点  
 1. [ResearchNote](https://github.com/meton-robean/ResearchNote/issues)  
