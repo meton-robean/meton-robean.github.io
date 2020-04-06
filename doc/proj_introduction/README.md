@@ -7,8 +7,8 @@
 ![工具分析结果](/images/callgraph1.png)
 
 
-### [LockServer](https://github.com/meton-robean/LockServer)  
-实习期间参与的一个基于golang的物联网后台项目. 该后台用于对接响其他前继的java服务发来的设备控制请求、以及管理控制lora物联网网关设备集群.基于这两个明确的需求，该系统也清晰的分为WechatAPI和DeviceServer两部分，以实现维护上的功能解耦.  
+### [goDeviceServer](https://github.com/meton-robean/goDeviceServer)  
+项目参与的一个基于golang的物联网后台项目. 该后台用于对接响其他前继的java服务发来的设备控制请求、以及管理控制lora物联网网关设备集群.基于这两个明确的需求，该系统也清晰的分为WechatAPI和DeviceServer两部分，以实现维护上的功能解耦.  
 
 ![系统架构](/images/lockserver.png)  
 
